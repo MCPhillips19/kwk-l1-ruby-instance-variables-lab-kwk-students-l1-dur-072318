@@ -7,3 +7,4 @@ class Dog
   end
 end
 dog1=Dog.new("Finn")
+puts dog1.get_name
