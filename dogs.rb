@@ -3,4 +3,4 @@ class Dog
     @name = name 
   end
 end
-dog1=Dog.new
+dog1=Dog.new("Finn")
